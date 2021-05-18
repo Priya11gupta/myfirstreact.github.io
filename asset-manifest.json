@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/myfirstreact.github.io/static/css/main.667bc1a7.chunk.css",
+    "main.js": "/myfirstreact.github.io/static/js/main.f4e405b6.chunk.js",
+    "main.js.map": "/myfirstreact.github.io/static/js/main.f4e405b6.chunk.js.map",
+    "runtime-main.js": "/myfirstreact.github.io/static/js/runtime-main.c39c8a29.js",
+    "runtime-main.js.map": "/myfirstreact.github.io/static/js/runtime-main.c39c8a29.js.map",
+    "static/css/2.74c02967.chunk.css": "/myfirstreact.github.io/static/css/2.74c02967.chunk.css",
+    "static/js/2.ff1d547e.chunk.js": "/myfirstreact.github.io/static/js/2.ff1d547e.chunk.js",
+    "static/js/2.ff1d547e.chunk.js.map": "/myfirstreact.github.io/static/js/2.ff1d547e.chunk.js.map",
+    "index.html": "/myfirstreact.github.io/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/myfirstreact.github.io/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.667bc1a7.chunk.css.map": "/myfirstreact.github.io/static/css/main.667bc1a7.chunk.css.map",
+    "static/js/2.ff1d547e.chunk.js.LICENSE.txt": "/myfirstreact.github.io/static/js/2.ff1d547e.chunk.js.LICENSE.txt",
+    "static/media/css3.3dabd8ea.svg": "/myfirstreact.github.io/static/media/css3.3dabd8ea.svg",
+    "static/media/img2.d12e2a27.svg": "/myfirstreact.github.io/static/media/img2.d12e2a27.svg",
+    "static/media/java.d93609ec.jpg": "/myfirstreact.github.io/static/media/java.d93609ec.jpg",
+    "static/media/react.7c70f30f.png": "/myfirstreact.github.io/static/media/react.7c70f30f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c39c8a29.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.ff1d547e.chunk.js",
+    "static/css/main.667bc1a7.chunk.css",
+    "static/js/main.f4e405b6.chunk.js"
+  ]
+}
